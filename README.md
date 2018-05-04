@@ -1,3 +1,3 @@
 # Infographic
 
-- [View my infographic in full here](https://loosecookie.github.io/infographic/infograph2.pdf)
+- [View my infographic in full here](https://github.com/loosecookie/infographic/blob/gh-pages/inforgraph2.png)
